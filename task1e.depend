@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706454946 source:d:\embedded system\embedded gdsc\tasks\task1e\main.c
+	<stdio.h>
+	<stdlib.h>
+
